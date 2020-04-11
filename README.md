@@ -13,7 +13,7 @@ The game will generate a map using the seed values given by the player, the map 
 
 *Chest:* They move spratically each time the player takes a move, there are other chests that may or may not contain weapons/magic potion that can make the moster go slower, but when the a chest appear within the 15 blocks around the player, it will become static automatically.
 
-*Demons:* There are two types of them, one of which is faster than youtr movement and the other is slower, they both will begin to persue the player when agitated.
+*Demons:* There are two types of them, one of which is faster than your movement and the other is slower, they both will begin to persue the player when agitated.
 
 Both demons and chests will require a possibility game(RPS game), to conquer by weapon, but when administered with potion, demons can be conquered without one, user commands should be specified here.
 
